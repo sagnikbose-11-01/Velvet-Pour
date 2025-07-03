@@ -7,12 +7,16 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" />
-  <img src="https://raw.githubusercontent.com/gsap-community/branding/master/logo/GSAP/logo-green.svg" alt="GSAP" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="60" />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/react.svg" alt="React" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/greensock.svg" alt="GSAP" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/vite.svg" alt="Vite" width="40" height="40" />
+</p>
+
 
 ---
 
