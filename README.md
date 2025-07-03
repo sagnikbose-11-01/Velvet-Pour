@@ -1,12 +1,44 @@
-# React + Vite
+# 🍸 Velvet Pour - Mojito Bar Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Velvet Pour** is a sleek, modern, and fully responsive landing page for a fictional bar named **Mojito**. Built using **React** and **Tailwind CSS**, this website delivers a visually stunning experience powered by rich **GSAP animations**, parallax effects, and custom components.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Tech Stack
 
-## Expanding the ESLint configuration
+<div align="center">
+  <img src="./public/images/react-logo.png" alt="React" height="50"/>
+  <img src="./public/images/gsap-logo.png" alt="GSAP" height="50"/>
+  <img src="./public/images/tailwind-logo.png" alt="Tailwind CSS" height="50"/>
+</div>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎬 Features
+
+- 🔁 **GSAP Animations**
+  - SplitText word & character reveals
+  - Scroll-triggered section transitions
+  - Smooth parallax scrolling effects
+- 🧩 **React Components**
+  - Modular, reusable code structure
+- 🌊 **Tailwind CSS Styling**
+  - Utility-first responsive design
+- 🎠 **Custom Carousel**
+  - Seamless transitions and interaction
+
+---
+
+## 📂 Folder Structure
+
+```bash
+├── public/
+│   ├── images/
+│   └── videos/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+└── tailwind.config.js
+
