@@ -23,6 +23,14 @@ const Menu = () => {
       { xPercent: 0, opacity: 1, duration: 1, ease: "power1.inOut" }
     );
 
+    gsap.to("#m-right-leaf", { y: "50", duration: 1, ease: "power1.inOut" });
+
+    gsap.to(
+      "#m-left-leaf",
+      { y: "-50", duration: 1, ease: "power1.inOut" },
+      "<"
+    );
+
     gsap.fromTo(
       ".details h2",
       { yPercent: 100, opacity: 0 },
