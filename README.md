@@ -8,14 +8,15 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/react.svg" alt="React" width="40" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/greensock.svg" alt="GSAP" width="40" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/vite.svg" alt="Vite" width="40" height="40" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
 </p>
+
 
 
 ---
