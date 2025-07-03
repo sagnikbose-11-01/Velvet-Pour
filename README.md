@@ -8,9 +8,10 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="70" />
-  <img src="https://raw.githubusercontent.com/gsap-community/branding/master/logo/GSAP/logo-green.svg" alt="GSAP" width="70" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" />
+  <img src="https://raw.githubusercontent.com/gsap-community/branding/master/logo/GSAP/logo-green.svg" alt="GSAP" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="60" />
 </div>
 
 ---
@@ -32,9 +33,6 @@
 
 ---
 
-
-
----
 
 ## 🚀 Getting Started
 
@@ -82,11 +80,13 @@ Inspired by minimalism and crafted to evoke the atmosphere of a high-end bar. Ev
 
 ---
 
+
 ## 🙌 Acknowledgements
 
-* **GSAP** for top-tier animation capabilities
-* **Tailwind CSS** for flexible styling
-* **React** for component-based architecture
+* 🟢 [GSAP](https://gsap.com/) – Top-tier animation library
+* 💨 [Tailwind CSS](https://tailwindcss.com/) – Utility-first styling
+* ⚛️ [React](https://reactjs.org/) – Component-based UI
+* ⚡ [Vite](https://vitejs.dev/) – Lightning-fast development server
 
 ---
 
@@ -99,5 +99,4 @@ This project is licensed under the **MIT License**.
 ## 🧑 Author
 
 Built with ❤️ by [Sagnik Bose](https://github.com/sagnikbose-11-01)
-
 
