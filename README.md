@@ -32,32 +32,7 @@
 
 ---
 
-## 📂 Folder Structure
 
-```
-
-MOJITO\_LANDING\_PAGE/
-├── public/
-│   ├── images/
-│   ├── fonts/
-│   ├── videos/
-│   └── vite.svg
-├── src/
-│   ├── components/
-│   │   ├── About.jsx
-│   │   ├── Art.jsx
-│   │   ├── Cocktails.jsx
-│   │   ├── Hero.jsx
-│   │   ├── Menu.jsx
-│   │   └── Navbar.jsx
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── index.html
-├── tailwind.config.js
-└── vite.config.js
-
-````
 
 ---
 
