@@ -1,5 +1,4 @@
 
-```markdown
 # 🍸 Velvet Pour - Mojito Bar Landing Page
 
 **Velvet Pour** is a sleek, modern, and fully responsive landing page built for a fictional bar named **Mojito**. Crafted using **React**, **Tailwind CSS**, and enhanced with buttery-smooth **GSAP animations**, it creates an immersive and elegant user experience.
@@ -124,9 +123,6 @@ This project is licensed under the **MIT License**.
 
 ## 🧑 Author
 
-Built with ❤️ by [Your Name](https://github.com/sagnikbose-11-01)
-
-```
+Built with ❤️ by [Sagnik Bose](https://github.com/sagnikbose-11-01)
 
 
-```
